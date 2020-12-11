@@ -1,0 +1,10 @@
+.Upcoming {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20%;
+    background-color: aliceblue;
+}
+
+.Upcoming > * {
+    flex: 0 0 75%;
+}

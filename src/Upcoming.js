@@ -1,6 +1,7 @@
 import React from 'react';
 import Description from './Description.js';
 import data from './DescList.json';
+import './Upcoming.css'
 
 function Upcoming() {
     const game_info = data.map(({ name, date, desc }) => {

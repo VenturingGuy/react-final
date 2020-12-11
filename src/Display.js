@@ -10,7 +10,7 @@ export default class Display extends React.Component {
     return (
       <CarouselProvider
         naturalSlideWidth={100}
-        naturalSlideHeight={125}
+        naturalSlideHeight={40}
         totalSlides={3}
       >
         <Slider>
