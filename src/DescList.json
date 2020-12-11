@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 0,
+        "date": "12-01-2020",
+        "name": "Yakuza 0",
+        "desc": "An interesting game that explores Japan during the height of its economic bubble that explores the morality of living as a Yakuza."
+    },
+    {
+      "ID": 1,
+      "date": "11-09-2020",
+      "name": "Super Robot Wars 3",
+      "desc": "An old Japanse strategy RPG from the 1990s, Super Robot Wars 3 promises to be one of the most painful games I will ever stream. Knowing the publisher, Banpresto, and its reputation, I am sure to encounter only the most aggravating of game mechanics and random chance. Please look forward to it."
+    },
+    {
+        "ID": 2,
+        "date": "11-07-2020",
+        "name": "Illbleed",
+        "desc": "I have to admit. This is one of the more unique games I've ever played. I never want to play it again. It turned my brain into mush. Drrr... DRRRRR......"
+    }
+]
